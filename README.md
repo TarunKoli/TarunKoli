@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tarunkoli0206@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1vgGJsbvF0rnpqORWXIAY4HyPktegDqNq/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1vgGJsbvF0rnpqORWXIAY4HyPktegDqNq/view?usp=sharing)
 
 - ⚡ Fun fact **console.log("Hello World !")**
 
